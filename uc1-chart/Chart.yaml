@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Umbrella chart for uc1 application
+name: uc1-chart
+version: 1.0

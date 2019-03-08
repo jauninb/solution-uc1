@@ -1,0 +1,7 @@
+dependencies:
+  - name: catalog-api
+    version: ">=1.0.0"
+    repository: file://../charts/catalog-api
+  - name: tourofheroes
+    version: ">=1.0.0"
+    repository: file://../charts/tourofheroes

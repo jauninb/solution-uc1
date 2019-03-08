@@ -1,0 +1,5 @@
+global:
+  pullSecret: regsecret
+  pullPolicy: IfNotPresent
+  # for local development against Minikube registry
+  #pullPolicy: Never
